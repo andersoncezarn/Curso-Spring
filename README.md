@@ -1,5 +1,5 @@
 # Curso-Spring
-Aplicação String desenvolvida durante curso online.
+Aplicação java web desenvolvida durante curso online de framework Spring.
 Tecnologias utilizadas:
 Java;
 Framework Spring;
