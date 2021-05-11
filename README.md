@@ -1,2 +1,7 @@
 # Curso-Spring
-Aplicação String desenvolvida junto ao curso.
+Aplicação String desenvolvida durante curso online.
+Tecnologias utilizadas:
+> Java
+> Framework Spring
+> Hibernate
+> Jquery Ajax
